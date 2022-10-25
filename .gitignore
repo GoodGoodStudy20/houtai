@@ -1,7 +1,12 @@
 .DS_Store
 node_modules
 /dist
-
+cii_web
+cii_web.zip
+cii_dev_web
+cii_dev_web.zip
+test_cii_web
+test_cii_web.zip
 
 # local env files
 .env.local
@@ -15,6 +20,7 @@ pnpm-debug.log*
 
 # Editor directories and files
 .idea
+.zip
 .vscode
 *.suo
 *.ntvs*
